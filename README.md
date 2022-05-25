@@ -1,3 +1,6 @@
+## Skills
+[![My Skills](https://skillicons.dev/icons?i=nodejs,js,ts,py,nim,powershell,linux,bash,md)](https://skillicons.dev)
+## Stats
 <img src="https://raw.githubusercontent.com/evilguy50/github-stats-transparent/abcdd91432d152978bf61253585ebb145ee7e9c9/generated/languages.svg"></img><img src="https://raw.githubusercontent.com/evilguy50/github-stats-transparent/abcdd91432d152978bf61253585ebb145ee7e9c9/generated/overview.svg"></img>
 
 <!--
